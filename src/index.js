@@ -4,9 +4,9 @@ import App from './App';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+root.render(  // displays to index.html
   <React.StrictMode>
-    <App />
+    <App />  {/* returns app component */}
   </React.StrictMode>
 );
 
