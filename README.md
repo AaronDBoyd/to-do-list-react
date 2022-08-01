@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todo List 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was coded along side a [Web Dev Simplified Video](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=1232s) as an introduction to the React framework. This repo includes notes that I've written to help understand the concepts.
 
 ## Available Scripts
 
